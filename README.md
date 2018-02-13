@@ -2,6 +2,7 @@
 Trained a feedforward neural network to predict whether a passenger of the Titanic survived or not
 
 v1 has 77% accuracy
+
 v2 has 77.5% accuracy (incorporates the 'Title' feature from the 'Name' feature)
 
 planned:
